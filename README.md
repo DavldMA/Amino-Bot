@@ -1,6 +1,6 @@
 # AminoBot
 
-A versatile bot for Amino communities, drawing inspiration from popular Discord bots. Elevate your Amino experience with advanced level features, efficient management tools, and entertaining commands. Developed in Python using a fan-made library dedicated to enhancing the Amino API.
+A versatile bot for Amino communities, drawing inspiration from popular Discord bots. Elevate your Amino experience with advanced level features, efficient management tools, and entertaining commands. Developed in Python using a fan-made library dedicated to enhancing the Amino API. This bot was not initially designed for public use; rather, it was created as a personal project for learning purposes. As a result, there may be gaps or potential areas for improvement in the code performance.
 
 ## Features:
 
