@@ -29,7 +29,7 @@ A versatile bot for Amino communities, drawing inspiration from popular Discord 
    ```
 
 3. Configure your bot:
-   - Edit the `config.py` file with your Amino credentials and bot settings.
+   - Edit the variables on the main file with your account credentials
 
 4. Run the bot:
    ```
