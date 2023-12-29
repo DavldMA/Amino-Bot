@@ -1,0 +1,14 @@
+pymino
+datetime
+typing
+gtts
+easy_pil
+Pillow
+numpy
+pathlib
+imgbbpy
+pymongo
+google_translate_py
+beautifulsoup4
+requests
+unidecode 
