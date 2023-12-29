@@ -39,7 +39,7 @@ A versatile bot for Amino communities, drawing inspiration from popular Discord 
 ## Showcase
 <p align="center">
   <a href="https://youtu.be/pfns9Jn8uMo">
-    <img src="https://i.stack.imgur.com/Vp2cE.png" alt="Watch the video">
+    <img src="https://github.com/DavldMA/Amino-Bot/blob/a8044af7cc9836a49f97c8077ee709c29df15ee2/photos/Aminobots.png" alt="Watch the video">
   </a>
 </p>
 
