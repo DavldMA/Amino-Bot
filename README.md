@@ -35,3 +35,5 @@ A versatile bot for Amino communities, drawing inspiration from popular Discord 
    ```
    python main.py
    ```
+
+## Showcase
