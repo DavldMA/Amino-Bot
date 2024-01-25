@@ -39,3 +39,7 @@ A versatile bot for Amino communities, drawing inspiration from popular Discord 
 ## Showcase
 
 
+
+https://github.com/DavldMA/Amino-Bot/assets/121316464/3f589099-2844-411b-ab45-2662e16ce02e
+
+
